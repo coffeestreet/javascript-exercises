@@ -1,0 +1,23 @@
+{
+  "name": "03_reversestring",
+  "version": "1.0.0",
+  "description": "Pretty simple, write a function called `reverseString` that returns its input, reversed!",
+  "main": "reverseString.js",
+  
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+  "modulePathIgnorePatterns": [
+    "<rootDir>/repos/javascript-exercises",
+    "<rootDir>/.nvm"
+  ]
+},
+
+"devDependencies": {
+    "jest": "^29.0.0"
+  },
+
+  "author": "",
+  "license": "ISC"
+}
