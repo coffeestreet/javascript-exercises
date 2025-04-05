@@ -1,0 +1,23 @@
+{
+  "name": "02_repeatstring",
+  "version": "1.0.0",
+  "description": "Write a function that simply repeats the string a given number of times:",
+  "main": "repeatString.js",
+  
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+  "modulePathIgnorePatterns": [
+    "<rootDir>/repos/javascript-exercises",
+    "<rootDir>/.nvm"
+  ]
+},
+
+"devDependencies": {
+    "jest": "^29.0.0"
+  },
+
+  "author": "",
+  "license": "ISC"
+}

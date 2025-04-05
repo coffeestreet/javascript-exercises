@@ -1,0 +1,25 @@
+{
+  "name": "01_helloworld",
+  "version": "1.0.0",
+  "description": "The main purpose of this exercise is to walk you through the process of running the tests and make sure everything is set up and running correctly.",
+  "main": "helloWorld.js",
+  
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+  "modulePathIgnorePatterns": [
+    "<rootDir>/repos/javascript-exercises",
+    "<rootDir>/.nvm"
+  ]
+},
+
+"devDependencies": {
+    "jest": "^29.0.0"
+  },
+
+  "author": "",
+  "license": "ISC"
+}
+
+
