@@ -1,0 +1,23 @@
+{
+  "name": "07_tempconversion",
+  "version": "1.0.0",
+  "description": "Write two functions that convert temperatures from Fahrenheit to Celsius, and vice versa: ``` convertToCelsius(32) // fahrenheit to celsius, should return 0",
+  "main": "tempConversion.js",
+  
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+  "modulePathIgnorePatterns": [
+    "<rootDir>/repos/javascript-exercises",
+    "<rootDir>/.nvm"
+  ]
+},
+
+"devDependencies": {
+    "jest": "^29.0.0"
+  },
+
+  "author": "",
+  "license": "ISC"
+}
